@@ -19,7 +19,7 @@ I’m a **Software Engineer** with 2+ years of experience, focused on building s
 
 What I enjoy most is turning business needs into clean, efficient, and maintainable systems that make life easier for people using them. I’m currently learning more about building scalable and reliable architectures, with the long-term goal of becoming a stronger engineer and eventually creating something of my own.
 
-Beyond coding, I’m a lifelong learner who believes consistency is the key to growth — whether through reading, fitness, or exploring new ideas. I bring the same curiosity and discipline into my work and collaborations.
+Beyond coding, I’m a lifelong learner who believes consistency is the key to growth — whether through reading or exploring new ideas. I bring the same curiosity and discipline into my work and collaborations.
 
 ## 🔧 Skills
 - Python  
