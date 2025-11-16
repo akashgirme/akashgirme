@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Akash 👋
 
-I’m a **Software Engineer** with 2+ years of experience, focused on building scalable and data-driven systems. I enjoy solving challenging problems, especially where distributed data, reliability, and clean system design come together.
+I’m a **Software Engineer** focused on building scalable and data-driven systems. I enjoy solving challenging problems, especially where distributed data, reliability, and clean system design come together.
 
 What I enjoy most is turning business needs into clean, efficient, and maintainable systems that make life easier for people using them. I’m currently learning more about building scalable and reliable architectures, with the long-term goal of becoming a stronger engineer and eventually creating something of my own.
 
